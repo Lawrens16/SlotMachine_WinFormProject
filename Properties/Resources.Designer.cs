@@ -123,6 +123,35 @@ namespace SlotMachine.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bluedog {
+            get {
+                object obj = ResourceManager.GetObject("bluedog", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Cash {
+            get {
+                object obj = ResourceManager.GetObject("Cash", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Cashh {
+            get {
+                return ResourceManager.GetStream("Cashh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cat {
             get {
                 object obj = ResourceManager.GetObject("cat", resourceCulture);
@@ -136,6 +165,47 @@ namespace SlotMachine.Properties {
         internal static System.Drawing.Bitmap Cherry {
             get {
                 object obj = ResourceManager.GetObject("Cherry", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__3__removebg_preview__1_ {
+            get {
+                object obj = ResourceManager.GetObject("DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__3__removebg_preview__1" +
+                        "_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__4__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__4__removebg_preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__5__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__5__removebg_preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__6__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("DarkRed_Beautiful_Sunset_Thank_You_Watching_Youtube_Video__6__removebg_preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -266,6 +336,16 @@ namespace SlotMachine.Properties {
         internal static System.Drawing.Bitmap rabbit {
             get {
                 object obj = ResourceManager.GetObject("rabbit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap redbanana_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("redbanana_removebg_preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
